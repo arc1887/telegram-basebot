@@ -1,0 +1,15 @@
+{
+  "name": "base-telegram-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "description": "Simple telegram bot",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "moment-timezone": "0.5.45",
+    "node-telegram-bot-api": "0.66.0",
+    "readline": "1.3.0"
+  }
+}

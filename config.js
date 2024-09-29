@@ -1,0 +1,1 @@
+const owner = "damnbajutudahkoyak" // username
